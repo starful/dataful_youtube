@@ -1,0 +1,98 @@
+location,year,vacation
+Australia,1870,8
+Australia,1900,9
+Australia,1938,22
+Australia,1950,22
+Australia,1980,32
+Australia,1990,32
+Australia,2000,32
+Belgium,1870,18
+Belgium,1900,21
+Belgium,1938,30
+Belgium,1950,28
+Belgium,1980,34
+Belgium,1990,34
+Belgium,2000,33
+Canada,1870,8
+Canada,1900,9
+Canada,1938,22
+Canada,1950,22
+Canada,1980,25
+Canada,1990,25
+Canada,2000,24
+Denmark,1870,13
+Denmark,1900,14
+Denmark,1938,27
+Denmark,1950,27
+Denmark,1980,30
+Denmark,1990,35
+Denmark,2000,37
+France,1870,19
+France,1900,23
+France,1938,33
+France,1950,28
+France,1980,30
+France,1990,36
+France,2000,36
+Germany,1870,13
+Germany,1900,18
+Germany,1938,31
+Germany,1950,29
+Germany,1980,29
+Germany,1990,35
+Germany,2000,42.5
+Ireland,1870,14
+Ireland,1900,20
+Ireland,1938,33
+Ireland,1950,20
+Ireland,1980,28
+Ireland,1990,28
+Ireland,2000,30
+Italy,1870,23
+Italy,1900,24
+Italy,1938,37
+Italy,1950,24
+Italy,1980,35
+Italy,1990,40
+Italy,2000,41.5
+Netherlands,1870,4
+Netherlands,1900,5
+Netherlands,1938,21
+Netherlands,1950,24
+Netherlands,1980,33
+Netherlands,1990,35
+Netherlands,2000,37.5
+Spain,1870,31
+Spain,1900,31
+Spain,1938,44
+Spain,1980,30
+Spain,1990,35
+Spain,2000,36
+Sweden,1870,11
+Sweden,1900,13
+Sweden,1938,28
+Sweden,1950,29
+Sweden,1980,30
+Sweden,1990,37
+Sweden,2000,38
+Switzerland,1870,13
+Switzerland,1900,18
+Switzerland,1938,33
+Switzerland,1950,25
+Switzerland,1980,28
+Switzerland,1990,28
+Switzerland,2000,33
+United Kingdom,1870,14
+United Kingdom,1900,20
+United Kingdom,1938,30
+United Kingdom,1950,24
+United Kingdom,1980,28
+United Kingdom,1990,30
+United Kingdom,2000,32.5
+United States,1870,4
+United States,1900,5
+United States,1938,17
+United States,1950,18
+United States,1980,22
+United States,1990,23
+United States,2000,20
